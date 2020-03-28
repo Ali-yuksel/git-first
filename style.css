@@ -1,0 +1,21 @@
+
+
+div {
+    color: salmon;
+    display: inline;
+    background-image: url(sc.jpeg);
+    background-size: 150% 50%;
+    height: 5000px;
+    
+}
+
+h1{
+    color: darkgoldenrod;
+    margin-left: 180px;
+
+}
+
+h2{
+    color: deeppink;
+}
+
